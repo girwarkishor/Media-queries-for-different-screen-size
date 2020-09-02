@@ -1,4 +1,5 @@
 # Media-queries-for-different-screen-size
+```
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen
 and (min-device-width : 320px)
@@ -75,3 +76,5 @@ and (max-device-width : 568px)
 and (orientation : portrait) {
 /* STYLES GO HERE */
 }
+
+```
